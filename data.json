@@ -1,7 +1,7 @@
 {
   "settings": {
     "brandName": "Raudhatul Jannah Team",
-    "tagline": "Lia_Nurlia SAMIRA TRAVEL",
+    "tagline": "Khusnul Khotimah-MBS SAMIRA TRAVEL",
     "navHome": "Beranda",
     "navBlog": "Blog",
     "navMitra": "Mitra",
@@ -9,23 +9,23 @@
     "navMaps": "Lokasi",
     "navWA": "Hubungi",
     "mitraTitle": "Mitra Resmi Samira Travel",
-    "mitraName": "Lia_Nurlia-MBS",
-    "mitraAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong\nKecamatan : Leuwigoong\nKabupaten Garut 44192",
-    "waNumber1": "6281222204262",
-    "waNumber2": "6281222204262",
+    "mitraName": "Khusnul Khotimah MBS",
+    "mitraAddress": "Perumahan Taman Raya Cikarang Blok A4/6",
+    "waNumber1": "6281245844797",
+    "waNumber2": "6281245844797",
     "galleryTitle": "Galeri Perjalanan",
     "brochureTitle": "Program & Brosur",
     "brochureHeading": "Paket Umroh & Haji Furoda",
     "brochureDesc": "Dapatkan brosur digital dengan fasilitas lengkap, jadwal keberangkatan, dan promo terbaru dari mitra resmi Samira Travel.",
     "footerText": "Samira Travel • Melayani Ibadah dengan Hati",
-    "footerAddress": "Mitra/Tour leader : Lia_Nurlia-MBS (Leuwigoong, Garut)",
+    "footerAddress": "Mitra/Tour leader : Khusnul Khotimah MBS (Cikarang)",
     "copyright": "© 2026 Samira Travel | Umroh & Haji Terpercaya",
     "mapsTitle": "Lokasi Mitra Kami",
-    "mapsAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong Kecamatan : Leuwigoong Kabupaten Garut 44192",
+    "mapsAddress": "Perumahan Taman Raya Cikarang Blok A4/6",
     "blogTitle": "Wujudkan Impian Anda dan Keluarga ke Baitullah Bersama Samira Travel",
-    "contactName": "Lia_Nurlia-MBS",
-    "contactWA": "6281222204262",
-    "contactPhone": "6281222204262"
+    "contactName": "Khusnul Khotimah MBS",
+    "contactWA": "6281245844797",
+    "contactPhone": "6281245844797"
   },
   "colors": {
     "primary": "#1c84b5",
@@ -38,8 +38,8 @@
     "footerBg": "#e0f0f8"
   },
   "mapLocation": {
-    "lat": -7.0934851,
-    "lng": 107.9561131,
+    "lat": -6.2312581,
+    "lng": 107.1646719,
     "zoom": 15
   },
   "carousel": [
@@ -154,7 +154,7 @@
       "icon": "fas fa-bus"
     }
   ],
- "blogPosts": [
+  "blogPosts": [
     {
       "id": "1780316914027",
       "title": "Tips Mempersiapkan Umroh Pertama Kali",
@@ -163,8 +163,8 @@
       "date": "2026-06-01",
       "image": "./assets/blog/blog_3.jpg"
     },
-   {
-    "id": "1780317037251",
+    {
+      "id": "1780317037251",
       "title": "Keutamaan Ibadah di Bulan Ramadhan",
       "excerpt": "Rahasia pahala berlipat ganda saat melaksanakan umroh di bulan suci.",
       "content": "",
