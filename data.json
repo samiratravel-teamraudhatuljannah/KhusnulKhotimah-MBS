@@ -1,0 +1,181 @@
+{
+  "settings": {
+    "brandName": "Raudhatul Jannah Team",
+    "tagline": "Lia_Nurlia SAMIRA TRAVEL",
+    "navHome": "Beranda",
+    "navBlog": "Blog",
+    "navMitra": "Mitra",
+    "navGallery": "Galeri",
+    "navMaps": "Lokasi",
+    "navWA": "Hubungi",
+    "mitraTitle": "Mitra Resmi Samira Travel",
+    "mitraName": "Lia_Nurlia-MBS",
+    "mitraAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong\nKecamatan : Leuwigoong\nKabupaten Garut 44192",
+    "waNumber1": "6281222204262",
+    "waNumber2": "6281222204262",
+    "galleryTitle": "Galeri Perjalanan",
+    "brochureTitle": "Program & Brosur",
+    "brochureHeading": "Paket Umroh & Haji Furoda",
+    "brochureDesc": "Dapatkan brosur digital dengan fasilitas lengkap, jadwal keberangkatan, dan promo terbaru dari mitra resmi Samira Travel.",
+    "footerText": "Samira Travel • Melayani Ibadah dengan Hati",
+    "footerAddress": "Mitra/Tour leader : Lia_Nurlia-MBS (Leuwigoong, Garut)",
+    "copyright": "© 2026 Samira Travel | Umroh & Haji Terpercaya",
+    "mapsTitle": "Lokasi Mitra Kami",
+    "mapsAddress": "Kp Jampang Rt 01 Rw 03 Desa: Leuwigoong Kecamatan : Leuwigoong Kabupaten Garut 44192",
+    "blogTitle": "Wujudkan Impian Anda dan Keluarga ke Baitullah Bersama Samira Travel",
+    "contactName": "Lia_Nurlia-MBS",
+    "contactWA": "6281222204262",
+    "contactPhone": "6281222204262"
+  },
+  "colors": {
+    "primary": "#1c84b5",
+    "primaryDark": "#0f678f",
+    "secondary": "#6ec1e4",
+    "bgLight": "#f0f9ff",
+    "textDark": "#1a3a4f",
+    "textLight": "#2c5f78",
+    "navbarBg": "rgba(255,255,255,0.96)",
+    "footerBg": "#e0f0f8"
+  },
+  "mapLocation": {
+    "lat": -7.0934851,
+    "lng": 107.9561131,
+    "zoom": 15
+  },
+  "carousel": [
+    {
+      "id": "1",
+      "title": "Selamat Datang di Samira Travel",
+      "caption": "Perjalanan Ibadah yang Nyaman",
+      "image": "./assets/carousel/slide_1.jpg",
+      "fallback": "https://placehold.co/1920x500/1c84b5/white?text=Umroh+2025"
+    },
+    {
+      "id": "2",
+      "title": "Mulai Dari 35jtaan",
+      "caption": "Promo Tahun Ini",
+      "image": "./assets/carousel/slide_2.jpg",
+      "fallback": "https://placehold.co/1920x500/0b5e7e/white?text=Haji+Khusus"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "1780315349044",
+      "caption": "Mitra Resmi",
+      "type": "image",
+      "url": "./assets/gallery/gallery_1.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Mitra%20Resmi"
+    },
+    {
+      "id": "1780315449163",
+      "caption": "5 langkah mudah",
+      "type": "image",
+      "url": "./assets/gallery/gallery_2.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20langkah%20mudah"
+    },
+    {
+      "id": "1780315498754",
+      "caption": "5 Langkah Mudah",
+      "type": "image",
+      "url": "./assets/gallery/gallery_3.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20Langkah%20Mudah"
+    },
+    {
+      "id": "1780315561940",
+      "caption": "5 Langkah Mudah",
+      "type": "image",
+      "url": "./assets/gallery/gallery_4.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20Langkah%20Mudah"
+    },
+    {
+      "id": "1780315628114",
+      "caption": "Syiar Baitullah",
+      "type": "image",
+      "url": "./assets/gallery/gallery_5.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Syiar%20Baitullah"
+    },
+    {
+      "id": "1780315670030",
+      "caption": "Syiar Baitullah",
+      "type": "image",
+      "url": "./assets/gallery/gallery_6.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Syiar%20Baitullah"
+    },
+    {
+      "id": "1780315727692",
+      "caption": "5 Pasti",
+      "type": "image",
+      "url": "./assets/gallery/gallery_7.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=5%20Pasti"
+    },
+    {
+      "id": "1780315827962",
+      "caption": "Flyer Haji Khusus",
+      "type": "image",
+      "url": "./assets/gallery/gallery_8.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Flyer%20Haji%20Khusus"
+    },
+    {
+      "id": "1780315879110",
+      "caption": "Flyer Haji Furoda",
+      "type": "image",
+      "url": "./assets/gallery/gallery_9.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Flyer%20Haji%20Furoda"
+    },
+    {
+      "id": "1780315944842",
+      "caption": "Flyer Badal Haji",
+      "type": "image",
+      "url": "./assets/gallery/gallery_10.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Flyer%20Badal%20Haji"
+    },
+    {
+      "id": "1780316011649",
+      "caption": "Daftar Sekarang Juga",
+      "type": "image",
+      "url": "./assets/gallery/gallery_11.jpg",
+      "fallback": "https://placehold.co/600x400/3a8bbb/white?text=Daftar%20Sekarang%20Juga"
+    }
+  ],
+  "services": [
+    {
+      "title": "GRATIS PEMBUATAN PASSPORT",
+      "desc": "Free pembuatan passport untuk jamaah agar jamaah segera berangkat umroh. Pengurusan dilayani dengan baik dan profesional.",
+      "icon": "fas fa-passport"
+    },
+    {
+      "title": "Hotel Bintang 5",
+      "desc": "Akomodasi terbaik dekat Masjidil Haram dan Nabawi, plus konsumsi premium.",
+      "icon": "fas fa-hotel"
+    },
+    {
+      "title": "Transportasi Eksklusif",
+      "desc": "Bus pariwisata ber-AC dengan driver ramah dan berpengalaman di tanah suci.",
+      "icon": "fas fa-bus"
+    }
+  ],
+ "blogPosts": [
+    {
+      "id": "1780316914027",
+      "title": "Tips Mempersiapkan Umroh Pertama Kali",
+      "excerpt": "Persiapan fisik, mental, dan administrasi untuk umroh yang mabrur.",
+      "content": "",
+      "date": "2026-06-01",
+      "image": "./assets/blog/blog_3.jpg"
+    },
+   {
+    "id": "1780317037251",
+      "title": "Keutamaan Ibadah di Bulan Ramadhan",
+      "excerpt": "Rahasia pahala berlipat ganda saat melaksanakan umroh di bulan suci.",
+      "content": "",
+      "date": "2026-06-01",
+      "image": "./assets/blog/blog_3.png"
+    }
+  ],
+  "brochure": "./assets/brochure/brochure.jpg",
+  "brochureFallback": "https://placehold.co/320x420/bfe2f2/0d5f7e?text=Brosur+Samira",
+  "logo": "./assets/logo/logo.png",
+  "logoFallback": "https://placehold.co/200x60/bfdff0/1c6c8f?text=Samira",
+  "mitraPhoto": "./assets/mitra/mitra.jpg",
+  "mitraPhotoFallback": "https://placehold.co/150x150/3a8bbb/white?text=Mitra"
+}
