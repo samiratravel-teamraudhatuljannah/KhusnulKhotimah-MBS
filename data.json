@@ -44,13 +44,6 @@
   },
   "carousel": [
     {
-      "id": "1",
-      "title": "Selamat Datang di Samira Travel",
-      "caption": "Perjalanan Ibadah yang Nyaman",
-      "image": "./assets/carousel/slide_1.jpg",
-      "fallback": "https://placehold.co/1920x500/1c84b5/white?text=Umroh+2025"
-    },
-    {
       "id": "2",
       "title": "Mulai Dari 35jtaan",
       "caption": "Promo Tahun Ini",
